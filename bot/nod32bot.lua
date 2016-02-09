@@ -474,10 +474,10 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @behroozYaghi
+Developer: @mahdib9
 توسعه دهنده
 
-channel: @nod32team
+channel: @mahdib6
 کانال ما
 
 G00D LUCK ^_^
